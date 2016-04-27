@@ -227,6 +227,10 @@ nav ul ul li {
   color: #666;
 }
 
+.description {
+  display: none;
+}
+
 .article .impressions {
   width: 15%;
   float: right;
